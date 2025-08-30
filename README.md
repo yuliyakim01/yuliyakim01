@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi there, I'm Yuliya Kim!
 
-<!--
-**yuliyakim01/yuliyakim01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub! 🚀 
+I'm a software developer passionate aboutuser-friendly web applications, sustainability,  
 
-Here are some ideas to get you started:
+## 🔧 Technologies & Tools
+- **Languages:** TypeScript, JavaScript, HTML, CSS  
+- **Frameworks & Libraries:** React, TailwindCSS  
+- **Backend & APIs:** Node.js, commercetools, REST APIs  
+- **Other Tools:** Git, Netlify, Webpack  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Featured Projects 
+- [☕ Coffee Shop](https://coffee-shop-red-sigma.vercel.app/) — E-commerce project with category filtering, breadcrumbs, and commercetools API integration.
+
+## 🌱 Currently Learning
+- Advanced TypeScript patterns  
+- Clean architecture & design principles  
+- Improving frontend performance and UX  
+
+## 📫 Connect with Me
+- Portfolio: [yuliyacreates.com](https://yuliyacreates.com)  
+- LinkedIn: [linkedin.com/in/yuliyakim2001](www.linkedin.com/in/yuliyakim2001)  
+- Email: yuliyaskim@gmail.com  
+
+---
+
+⭐️ Feel free to explore my repos and connect if you’d like to collaborate!
